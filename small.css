@@ -1,0 +1,25 @@
+.highlight p {
+    width: 100%;
+}
+
+.contact form {
+    width: 90%;
+}
+
+.que h1 {
+    font-size: 2rem;
+}
+
+.clients i {
+    font-size: 2rem;
+}
+
+.main h1 {
+    font-size: 2.2rem;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.highlight img {
+    height: 175px;
+}

@@ -1,0 +1,96 @@
+    #content {
+        margin-top: 20%;
+        margin-left: 15%;
+    }
+    
+    .heading {
+        width: 99%;
+    }
+    
+    #copyright {
+        width: 90%;
+    }
+    
+    #logo {
+        font-size: 2rem;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    
+    #navbar ul {
+        display: none;
+    }
+    
+    .highlight p {
+        width: 90%;
+    }
+    
+    .writing {
+        width: 80%;
+    }
+    
+    .photo-section {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    
+    #pricing {
+        height: 800px;
+        flex-wrap: wrap;
+    }
+    
+    .card {
+        margin: 25px;
+    }
+    
+    .card .upper {
+        font-size: .8rem;
+        padding: 40px;
+    }
+    
+    .card .lower {
+        padding: 40px;
+        font-size: 1rem;
+    }
+    
+    .contact input {
+        width: 100%;
+    }
+    
+    .contact textarea {
+        width: 100%;
+    }
+    
+    #copyright {
+        width: 80%;
+    }
+    
+    .heading {
+        font-size: 2.5rem;
+        width: 90%;
+    }
+    
+    .highlight img {
+        height: 200px
+    }
+    
+    #content {
+        width: auto;
+    }
+    
+    .contact form {
+        width: 90%;
+    }
+    
+    .contactus h1 {
+        font-size: 2rem;
+    }
+    
+    .client-section {
+        width: 90%;
+    }
+    
+    .clients i {
+        font-size: 3rem;
+    }
